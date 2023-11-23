@@ -3,7 +3,6 @@ import UserType from './UserType.jsx';
 import AllData from './AllData.jsx';
 import Age from './Age.jsx';
 import TotalAge from './TotalAge.jsx';
-import './all.css'
 
 class HighOrderComponent extends React.Component {
     constructor(){

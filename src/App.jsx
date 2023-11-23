@@ -1,4 +1,3 @@
-import './App.css'
 import HighOrderComponent from './component/HighOrderComponent'
 
 function App() {
